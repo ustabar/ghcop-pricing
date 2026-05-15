@@ -4,7 +4,7 @@
 
 ## **🚀 Önemli Bir Not: Hap Bilgi Paylaşımı**
 
-Genelde yazılar böyle başlar: "Detaylar için aşağıdaki linklere bakın!" ve ben de size ansiklopedinin kütüphanedeki raf numarasını göstermişim olurum. Ancak burada asıl amacım **sizlere ansiklopedinin raf numarasını vermek değil, içindeki hap bilgiyi paylaşmak** 💊
+Genelde yazılar böyle başlar: "Detaylar için aşağıdaki linklere bakın!" ve ben de size ansiklopedinin kütüphanedeki raf numarasını göstermiş olurum. Ancak burada asıl amacım **sizlere ansiklopedinin raf numarasını vermek değil, içindeki hap bilgiyi paylaşmak** 💊
 
 ---
 
