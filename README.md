@@ -151,12 +151,6 @@ In June 2026, existing Copilot Business or Enterprise users will receive **extra
 
 ---
 
-## 🎯 **Budget Control: Stay Under Costs (Aikido Philosophy)**
-
-When discussing AI topics at universities, I often reference Aikido philosophy: *"To overcome your opponent in Aikido, you must redirect their energy back to them."*
-
-GitHub's new pricing policy embodies exactly this! GitHub redirects the energy of costs (your budget) back through a control system to your advantage. Your energy (budget) is transformed into your own advantage through proper limits and controls. The result? Control, power, and peace of mind—just like a well-executed Aikido move.
-
 ### **How Does It Work?**
 
 GitHub offers budget controls at four levels:
@@ -167,28 +161,6 @@ GitHub offers budget controls at four levels:
 4. **User-level**: Track spending for individual users ($0 user budget = no access at all)
 
 You can use budgets to get alerts as you approach limits and to enforce hard stops on usage. For example, if you want to allow some additional usage but keep it in check, you could set a user-level budget slightly above the included amount.
-
----
-
-## 🤖 **What Does Copilot Itself Say?**
-
-Let me have some fun. I asked GitHub Copilot how it views its new pricing system. Here's its "voice":
-
-> *"Hey! Ready for me to explain my new billing model? Think of it this way: I'm a work of art. Human design (expensive), a simple question (cheap), or a long orchestration (really pricey). I'm not telling you the price—I'm telling you **the real cost**.*
->
-> *In the old system, you'd ask "how many minutes?" Now you ask "how many tokens?" And you get all the details. You know the price, you can choose the model, you can control your budget.*
->
-> *This is fair. This is transparent. And—in Aikido's language—this is understanding the source of energy."*
-
-Pretty cool, right? 😎
-
----
-
-## 💡 **Final Thoughts**
-
-GitHub Copilot's new usage-based billing model is designed for organizations and developers who want to control costs while using resources efficiently. With transparent budget controls, a pooling system that optimizes flexibility, and diverse model options, Copilot offers a tailored solution for every size and needs profile.
-
-**Key Message:** Make informed decisions. Understand your team's usage patterns, choose the right models, and set budget limits wisely. This way, you can harness the power of AI while keeping costs under control.
 
 ---
 
