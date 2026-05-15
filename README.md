@@ -181,8 +181,6 @@ You can use budgets to get alerts as you approach limits and to enforce hard sto
 - [GitHub Copilot Models and Pricing](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing)
 - [Usage-Based Billing for Organizations and Enterprises](https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-organizations-and-enterprises)
 
-#GitHub #Microsoft #AI #ArtificialIntelligence #CopilotAI #TechBilling #SoftwareDevelopment #DevTools #CloudComputing #AIBilling #CodeGeneration #DeveloperTools #TechCommunity #Innovation #DigitalTransformation
-
 ---
 ---
 
@@ -354,7 +352,5 @@ Haziran 2026'da Copilot Business veya Enterprise kullanan mevcut müşteriler, i
 
 - [GitHub Copilot Models and Pricing](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing)
 - [Usage-Based Billing for Organizations and Enterprises](https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-organizations-and-enterprises)
-
-#GitHub #Microsoft #AI #ArtificialIntelligence #CopilotAI #TechBilling #SoftwareDevelopment #DevTools #CloudComputing #AIBilling #CodeGeneration #DeveloperTools #TechCommunity #Innovation #DigitalTransformation #Copilot
 
 ---
